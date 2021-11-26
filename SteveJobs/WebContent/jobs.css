@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+html{
+	background-color: #66BC88; 
+}
+
+h2.sobre:hover{
+	color: blue;
+}
+
+h2{
+	display: inline;
+}
+
+nav{
+	text-align: center;
+}
+p.rojo:first-line{
+	color: red;
+}
+h1.grande:first-letter{
+font-size:72px;
+color: black;
+}
+h1{
+		color: blue;
+}
+img{
+	float: right;
+} 
